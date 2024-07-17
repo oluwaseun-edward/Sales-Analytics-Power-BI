@@ -9,3 +9,6 @@ The objectives of the project is to create an automated sales dashboard for the 
 1. Monthly Sales breakdown: Create an easy-to-use dashboard to visualize sales performance monthly, comparing it to the previous month.
 2. Define KPIs: Identify the number of customers, sales growth month over month, profit trends month-over-month, average sales value, most profitable products etc.
 3. Auto-update: Ensure that the dashboard is automatically updated every week.
+
+
+This project was inspired by #Amdari.io
