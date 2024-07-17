@@ -1,0 +1,224 @@
+ProductID,ProductName,UnitPrice,UnitCost,SubCategory,Category
+1,Pink Midi Maxi Dress,69.33333333333333,49.22666666666666,Dress,Women
+2,Pink Abstract Print Mesh Kimono Bandeau Dress,56.0,41.44,Dress,Women
+3,Chartreus Pleated Cut Detail Cami Dress,59.333333333333336,34.413333333333334,Dress,Women
+4,Burgundy One Shoulder Cutout Waist Dress,79.33333333333333,44.42666666666667,Dress,Women
+5,Pink Stripe Knit Split Maxi Dress,72.66666666666667,57.40666666666667,Dress,Women
+6,Orange Knot Front Satin Maxi Dress,79.33333333333333,52.36,Dress,Women
+7,Nude Diamante Chain Satin Mini Dress,49.333333333333336,33.053333333333335,Dress,Women
+8,Blue Ruched Side Strappy Mini Dress,49.333333333333336,36.50666666666667,Dress,Women
+9,Black Laced Up Back S/S Mini Dress,42.666666666666664,29.013333333333335,Dress,Women
+10,Blue Strappy Satin Midi Dress,56.0,36.4,Dress,Women
+11,Navy Sweetheart Nackline Mesh Dress,56.0,35.28,Dress,Women
+12,Blue V Neck Mini Dress,46.0,30.360000000000003,Dress,Women
+13,Lilac Faux Feather Dress,49.333333333333336,30.093333333333334,Dress,Women
+14,Green Pleated Waist Shirt Dress,52.666666666666664,30.019999999999996,Dress,Women
+15,Black Strappy Satin Mini Dress With Folded Neckline,49.333333333333336,34.04,Dress,Women
+16,Blue Print Split Maxi Dress,66.0,44.220000000000006,Dress,Women
+17,Light Blue Wash Long Straight Leg Jeans,72.66666666666667,48.686666666666675,Jeans,Women
+18,Light Blue Straight Leg Jeans,72.66666666666667,51.593333333333334,Jeans,Women
+19,Light Blue Wash Knee Rip Hem Wide Leg Flares,86.0,60.199999999999996,Jeans,Women
+20,Light Blue Wash Pocket Skinny Jeans,69.33333333333333,40.21333333333333,Jeans,Women
+21,Wash Blue Ripped Long Leg Straight Jeans,86.0,63.64,Jeans,Women
+22,Washed Blue Ripped Split Hem Jeans,86.0,52.46,Jeans,Women
+23,BLUE KNEE RIPPED JEANS,72.66666666666667,40.69333333333334,Jeans,Women
+24,BLUE WAISTBAND WIDE LEG JEANS,72.66666666666667,45.78,Jeans,Women
+25,LIGHT BLUE THIGH RIP DENIM SHORT,62.666666666666664,42.61333333333334,Jeans,Women
+26,BLUE WASH HIGH WAISTED RIPPED DENIM SHORTS,62.666666666666664,42.61333333333334,Jeans,Women
+27,BLACK DISTRESSED DENIM SHORT,62.666666666666664,43.86666666666666,Jeans,Women
+28,BLUE WASH HIGH WAISTED TURN UP RIPPED DENIM SHORT,62.666666666666664,47.0,Jeans,Women
+29,DARK BLUE WASH HIGH WAISTED RIPPED DENIM SHORT,62.666666666666664,47.626666666666665,Jeans,Women
+30,BLUE DISTRESSED JEANS,72.66666666666667,41.42,Jeans,Women
+31,BLACK FLARE JEANS,72.66666666666667,55.226666666666674,Jeans,Women
+32,Green Print Long Sleeve Bodysuit,39.333333333333336,22.02666666666667,Body Suit,Women
+33,White Cutout Bodysuit,46.0,29.44,Body Suit,Women
+34,Red Bandeau Mesh Bodysuit,42.666666666666664,29.866666666666664,Body Suit,Women
+35,Pink/White Zip Front Mesh Bodysuit,36.0,24.48,Body Suit,Women
+36,Blue Multi Print Long Sleeve Bodysuit,39.333333333333336,26.74666666666667,Body Suit,Women
+37,ORANGE-YELLOW BODYSUIT,39.333333333333336,25.173333333333336,Body Suit,Women
+38,PINK/PURPLE BODYSUIT,39.333333333333336,29.5,Body Suit,Women
+39,PINK LONG SLEEVE BODYSUIT,36.0,24.48,Body Suit,Women
+40,ZIBRA STRECTH SATIN UNDERWIRED BODYSUIT,39.333333333333336,22.02666666666667,Body Suit,Women
+41,WHITE SLINKY CUT OUT BODYSUIT,42.666666666666664,33.28,Body Suit,Women
+42,Renua Striped Silky Dress - Orange,169.33333333333334,113.45333333333335,Dress,Women
+43,Renua Striped Silky Dress - Mustard,169.33333333333334,106.68,Dress,Women
+44,Amira Technical Organza Oversized Long Sleeve Shirt Dress,155.33333333333334,121.16000000000001,Dress,Women
+45,Mawi Faux Croc Leather Dress - Sapphire,194.0,153.26000000000002,Dress,Women
+46,Mawi Faux Croc Leather Dress - Hot Pink,194.0,128.04,Dress,Women
+47,Zuhi Keyhole Dress - Hot Pink,125.33333333333333,70.18666666666667,Dress,Women
+48,Simona Mini Dress - Blue,284.6666666666667,222.04000000000002,Dress,Women
+49,Zuhi Keyhole Dress - Black,125.33333333333333,85.22666666666667,Dress,Women
+50,Simona Mini Dress - Hot Pink,284.6666666666667,204.96,Dress,Women
+51,Lolita Knit Dress,108.0,84.24000000000001,Dress,Women
+52,Mawi Faux Croc Leather Dress - Coffee,204.0,144.84,Dress,Women
+53,Acacia Ruched Sleeveless Dress - Yellow,171.0,97.46999999999998,Dress,Women
+54,Imade Knitted Long Sleeve Braid Dress - Yellow,187.0,119.68,Dress,Women
+55,Imade Knitted Long Sleeve Braid Dress - Pink,187.0,132.76999999999998,Dress,Women
+56,Crew Neck Long Sleeve Mesh Dress- Femi Print Baby Blue,157.0,94.2,Dress,Women
+57,Mesh Crew Neck Long Sleeve Mini Dress- Femi Print Purple,106.33333333333333,64.86333333333333,Dress,Women
+58,Bea Buttoned Cotton Maxi Dress - White,106.33333333333333,77.62333333333333,Dress,Women
+59,Radiant Night Heeled Sandals - Silver,73.1695,50.486954999999995,Shoes,Women
+60,Lost Your Chance Knee High Boots - Silver,146.3695,96.60387,Shoes,Women
+61,Radiant Night Heeled Sandals - Gold,73.1695,53.413734999999996,Shoes,Women
+62,Always On My Mind Heeled Sandals - Gold,73.1695,52.68204,Shoes,Women
+63,I'm Onto You Sneakers - Black,85.3695,50.368005,Shoes,Women
+64,Got The Look Booties - Ivory,85.3695,65.734515,Shoes,Women
+65,Sasha Buckle Booties - Black,146.3695,90.74909,Shoes,Women
+66,Lost Your Chance Knee High Boots - Black,146.3695,84.89430999999999,Shoes,Women
+67,Fun Nights Knee High Heeled Boots - Blue,121.9695,79.280175,Shoes,Women
+68,Alessia Embellished Knee High Boots - Denim,170.7695,117.83095499999999,Shoes,Women
+69,Rhinestone Baby Heeled Mules - Neon Yellow,85.3695,49.514309999999995,Shoes,Women
+70,Cozy But Cute Wedges - Green,73.1695,51.21865,Shoes,Women
+71,Got You Jealous Heeled Sandals - Pink,106.7195,80.039625,Shoes,Women
+72,All That Sparkle Over The Knee Boots - Pink,182.96949999999998,109.78169999999999,Shoes,Women
+73,Miss The Moment Knee High Heeled Boots - Cream,182.96949999999998,122.589565,Shoes,Women
+74,Feeling Trendy Cargo Boots - White,152.46949999999998,114.35212499999999,Shoes,Women
+75,Get Used To It Knee High Boots - Pink,213.46949999999998,134.485785,Shoes,Women
+76,Always Your Babe Over The Knee Heeled Boots - Rose,106.7195,61.89730999999999,Shoes,Women
+77,On My Way Out Velvet Boots - Pink,91.4695,68.602125,Shoes,Women
+78,Carnival Nights Embellished Boots - Blue,91.4695,64.02865,Shoes,Women
+79,Always Your Babe Over The Knee Heeled Boots - Purple,182.96949999999998,122.589565,Shoes,Women
+80,Got A Good Thing Sneakers - Denim,91.4695,54.881699999999995,Shoes,Women
+81,Cool Vibes Sneakers - Denim,91.4695,62.19926,Shoes,Women
+82,Old School Sneakers - Green,106.7195,81.10682,Shoes,Women
+83,Fuzzy Moments Slippers - Black,36.5695,20.478920000000002,Shoes,Women
+84,Sunshine Fine Foam Slides - Black,48.7695,35.114039999999996,Shoes,Women
+85,Mckinley Embellished Novelty Heels - Purple,97.56949999999999,73.17712499999999,Shoes,Women
+86,Early Notice Pumps - Purple,64.0195,39.051894999999995,Shoes,Women
+87,It's Happening Pumps - Black,97.56949999999999,62.44448,Shoes,Women
+88,Point You In The Right Direction Heel - Black,85.3695,64.88082,Shoes,Women
+89,Nothing But The Best Wrap Up Heels - Gold,97.56949999999999,75.128515,Shoes,Women
+90,Always Bold Platform Heels - Gold,85.3695,50.368005,Shoes,Women
+91,Acting Nice Ballet Flats - Silver,45.719500000000004,26.974505,Shoes,Women
+92,Everyday Flats - Nude,48.7695,36.08943,Shoes,Women
+93,Searching For Me Platform Heels - Pink,68.5945,43.214535,Shoes,Women
+94,Chasing The Thrill Over The Knee Boots - Pink,149.4195,106.08784499999999,Shoes,Women
+95,An Iconic Look Mules - Orange,45.719500000000004,32.00365,Shoes,Women
+96,Valet Only Mules - Orange,60.9695,34.75261499999999,Shoes,Women
+97,Pretty In Thigh High Boots - Black,121.9695,68.30292,Shoes,Women
+98,Give You What You Need Boots - Black,91.4695,71.34621,Shoes,Women
+99,Nadine Overlay Wedge Boots - Silver,121.9695,91.477125,Shoes,Women
+100,Carnival Nights Embellished Boots - Silver,106.7195,59.76292,Shoes,Women
+101,Black Pleated Micro Mini Skirt,52.666666666666664,35.81333333333333,Skirt,Women
+102,Khaki Belt Pocket Slit Skirt,52.666666666666664,39.5,Skirt,Women
+103,Multi Mini Skirt,26.0,15.079999999999998,Skirt,Women
+104,POCKET DETAILED BELTED MINI SKIRT,46.0,30.82,Skirt,Women
+105,BLACK ZEBRA MESH SKIRT,46.0,28.52,Skirt,Women
+106,LAVENDER PLEATED SKIRT,66.0,43.56,Skirt,Women
+107,ORANGE PLEATED MIDI SKIRT,52.666666666666664,32.126666666666665,Skirt,Women
+108,PINK PLEATED MIDI SKIRT,52.666666666666664,41.60666666666667,Skirt,Women
+109,MUSTARD A-LINE MINI SKIRT,42.666666666666664,26.026666666666664,Skirt,Women
+110,MERALD PU CUTOUT MINI SKIRT,46.0,25.76,Skirt,Women
+111,ROYALE BLUE PLEATED SKIRT,66.0,37.62,Skirt,Women
+112,BLACK PU CUTOUT MINI SKIRT,46.0,33.58,Skirt,Women
+113,KHAKI CARGO MINI SKIRT,46.0,30.82,Skirt,Women
+114,BLACK FRINGE MINI BODYCON SKIRT,39.333333333333336,22.02666666666667,Skirt,Women
+115,LEOPARD PRINT SATIN TIE SIDE MINI SKIRT,32.666666666666664,18.946666666666665,Skirt,Women
+116,BLACK SATIN MINI SKIRT,32.666666666666664,24.5,Skirt,Women
+117,PINK FRINGE MINI BODYCON SKIRT,39.333333333333336,28.32,Skirt,Women
+118,BLACK SEQUIN MINI SKIRT,42.666666666666664,32.0,Skirt,Women
+119,PINK SATIN MIDI SKIRT,42.666666666666664,31.57333333333333,Skirt,Women
+120,STONE SPLIT MINI SKIRT,32.666666666666664,18.619999999999997,Skirt,Women
+121,PINK CORSET SEAM DETAIL MINI SKIRT,39.333333333333336,30.28666666666667,Skirt,Women
+122,Ed Hardy Love Kills Beanie - Black/combo,44.97,30.129900000000003,Accessories,Women
+123,Hardly Working Utility Belt - Black,29.97,19.1808,Accessories,Women
+124,Classy Babe Earrings - Gold,23.97,17.498099999999997,Accessories,Women
+125,Manifest It Handbag - Gold,89.97,62.97899999999999,Accessories,Women
+126,Glam Cross Earrings - Silver,23.97,15.8202,Accessories,Women
+127,What You Tell Me Layered Necklace - Silver,23.97,17.9775,Accessories,Women
+128,Crazy Fur You Bucket Hat - Black,44.97,26.082599999999996,Accessories,Women
+129,Cheetah Sisters Shoulder Bag - Black,74.97,52.479,Accessories,Women
+130,Cuddle With Me Hat - Tan,59.97,46.7766,Accessories,Women
+131,Cheetah Sisters Shoulder Bag - Taupe,74.97,50.2299,Accessories,Women
+132,Classy Babe Earrings - Silver,23.97,18.2172,Accessories,Women
+133,Aspen Ready Gloves - Pink,38.97,21.8232,Accessories,Women
+134,Bonjour Mi Amour Beret - Ivory,38.97,22.212899999999998,Accessories,Women
+135,Everyday Chain Necklace - Gold,29.97,23.3766,Accessories,Women
+136,The Pearliest Girl Fedora - Black,89.97,58.4805,Accessories,Women
+137,Can't Hold Me Back Hoops - Gold,38.97,22.212899999999998,Accessories,Women
+138,New Chances Earrings - Silver,23.97,14.621699999999999,Accessories,Women
+139,Stone Hearts 5 Piece Ring Set - Clear/Silver,29.97,23.3766,Accessories,Women
+140,Should Have Been Us Belt - Black,29.97,21.278699999999997,Accessories,Women
+141,Modern Babe Handbag - Denim,89.97,61.1796,Accessories,Women
+142,Never Bored Hoop Earrings - Gold,29.97,22.4775,Accessories,Women
+143,Always Covered Handbag - Black,119.97,85.17869999999999,Accessories,Women
+144,Quilted Cabbie Hat - Black,44.97,28.7808,Accessories,Women
+145,Best To Me 5 Piece Ring Set - Silver,29.97,19.1808,Accessories,Women
+146,Men's Stripped business Suit | Black,121.66666666666667,79.08333333333334,Men's Suit,Men
+147,Men's Suit With Single Button |Black,115.0,79.35,Men's Suit,Men
+148,Men's Suit with Single Button |Grey,115.0,72.45,Men's Suit,Men
+149,Men's Suit With Single Button | Navy Blue,115.0,64.4,Men's Suit,Men
+150,Men's Suit with Single Button | Grey,115.0,70.14999999999999,Men's Suit,Men
+151,Men's Suit with Single Button |Royal Blue,115.0,72.45,Men's Suit,Men
+152,Men's 3-piece business Suit | Black,125.0,92.5,Men's Suit,Men
+153,Men's 3-piece business Suit | Navy Blue,125.0,71.25,Men's Suit,Men
+154,Men's 3-piece business Suit | Grey,125.0,97.5,Men's Suit,Men
+155,Men's 3-piece business Suit | Royal blue,125.0,88.75,Men's Suit,Men
+156,Men's Tuxedo with Single Button |NavyBlue,125.0,82.5,Men's Suit,Men
+157,Off White Men's Tuxedo with Single Button,125.0,95.0,Men's Suit,Men
+158,Men's Tuxedo Single Button |Black,125.0,81.25,Men's Suit,Men
+159,Men's Tuxedo with Single Button |white,125.0,78.75,Men's Suit,Men
+160,Men's Tuxedo with Single Button |Royal Blue,125.0,91.25,Men's Suit,Men
+161,Men's Tuxedo with Single Button |Grey,125.0,71.25,Men's Suit,Men
+162,Men's Tuxedo with Single Button |Black,125.0,76.25,Men's Suit,Men
+163,SIZE 58 3 Piece Men's Suit with Single Button | Army Green,151.66666666666666,112.23333333333332,Men's Suit,Men
+164,AM block check men's Shirt | Sky blue,63.33,36.731399999999994,Shirt,Men
+165,TM Martin Bishop Collar Shirt | Black,63.33,42.4311,Shirt,Men
+166,TM Martin Bishop Collar Shirt | White spec,63.33,49.3974,Shirt,Men
+167,FSH two toned Dress shirt | Pastel,66.66333333333333,37.331466666666664,Shirt,Men
+168,AM check men's Shirt | Blue,63.33,41.1645,Shirt,Men
+169,AM check men's Shirt | White,63.33,47.4975,Shirt,Men
+170,TM Martin men's classic Shirt | Burgundy,63.33,44.964299999999994,Shirt,Men
+171,TM Martin men's classic Shirt | White,63.33,36.098099999999995,Shirt,Men
+172,AG designer plain polo shirt | Beige,66.66333333333333,49.33086666666666,Shirt,Men
+173,TH crested Tee-shirt | Navy Blue,63.33,50.0307,Shirt,Men
+174,LST croc print polo shirt | Navy blue,66.66333333333333,42.66453333333333,Shirt,Men
+175,AM crested designer polo shirt | Black,66.66333333333333,38.664733333333324,Shirt,Men
+176,FSH drip print Dress shirt | Orange,63.33,40.5312,Shirt,Men
+177,FSH floral print Dress shirt | Blue,63.33,45.5976,Shirt,Men
+178,Shortsleeve Ricardo Martinez Print Shirt | County,63.33,44.330999999999996,Shirt,Men
+179,PRL trophy two toned polo shirt | Grey,63.33,41.1645,Shirt,Men
+180,PRL trophy two toned polo shirt | Black,63.33,37.998,Shirt,Men
+181,JP peacock print dress Shirt | Blue,63.33,49.3974,Shirt,Men
+182,Shortsleeve Ricardo Martinez Print Shirt | Strands,63.33,45.5976,Shirt,Men
+183,PRL trophy two toned polo shirt | Green,63.33,38.631299999999996,Shirt,Men
+184,GB leather penny loafers for men | Brown,125.0,81.25,Shoes,Men
+185,BB skin leather Mules | Black,125.0,87.5,Shoes,Men
+186,LB Suede white soles | Black,158.33333333333334,115.58333333333334,Shoes,Men
+187,LV capped leather laceup shoe | Brown,125.0,83.75,Shoes,Men
+188,GC crested textured white soles | Black,166.66333333333333,113.33106666666667,Shoes,Men
+189,LV. textured penny loafers | Brown,125.0,96.25,Shoes,Men
+190,TF cracked leather Mules | Black,125.0,76.25,Shoes,Men
+191,VLT crested tassel leather Bold sole | Black,158.33333333333334,121.91666666666667,Shoes,Men
+192,GB cracked leather loafers | Brown,125.0,88.75,Shoes,Men
+193,GB leather penny loafers for men | Black,125.0,80.0,Shoes,Men
+194,PRL easy suede loafers | Brown,99.99666666666667,76.99743333333333,Shoes,Men
+195,SF regal textured loafers for men | Black,141.66666666666666,82.16666666666666,Shoes,Men
+196,LV textured leather monk shoe | Brown,125.0,70.0,Shoes,Men
+197,TF cracked leather Mules | Brown,125.0,88.75,Shoes,Men
+198,TF leather laceup brogues | Dark Brown,125.0,73.75,Shoes,Men
+199,LV. textured penny loafers | Black,125.0,81.25,Shoes,Men
+200,LV poised leather laceup shoe | Brown,125.0,90.0,Shoes,Men
+201,LV capped textued laceup shoe | Black,125.0,92.5,Shoes,Men
+202,CLK capped leather Laceup shoe | Light Brown,125.0,87.5,Shoes,Men
+203,TF leather mens penny loafers | Black,125.0,71.25,Shoes,Men
+204,Premium Chinos Trouser | Navy Blue,66.66333333333333,43.33116666666666,Trousers,Men
+205,Premium Men's Dress Trouser | Black,91.66666666666667,58.66666666666667,Trousers,Men
+206,Premium Jeans Trouser | Blue,81.66666666666667,62.06666666666667,Trousers,Men
+207,Men's Chinos Trouser | Light Grey,43.33,29.4644,Trousers,Men
+208,Black Men's office Trouser,43.33,31.630899999999997,Trousers,Men
+209,Navy Blue Men's formal Trouser,43.33,28.1645,Trousers,Men
+210,Mens dress Trouser | Grain Grey,43.33,25.997999999999998,Trousers,Men
+211,Grey Men's formal Trouser,43.33,25.131399999999996,Trousers,Men
+212,Men's Chinos Trouser | Cream,43.33,24.2648,Trousers,Men
+213,Men's Chinos Trouser | Navy Blue,43.33,34.2307,Trousers,Men
+214,Men's Chinos Trouser | Carton,43.33,28.5978,Trousers,Men
+215,Premium Chinos Trouser | Beige,66.66333333333333,49.997499999999995,Trousers,Men
+216,Premium Chinos Trouser | Black,66.66333333333333,43.9978,Trousers,Men
+217,Premium Chinos Trouser | Brown,66.66333333333333,48.66423333333333,Trousers,Men
+218,Premium Chinos Trouser | Wine,66.66333333333333,45.997699999999995,Trousers,Men
+219,Premium Chinos Trouser | Purple,66.66333333333333,50.66413333333333,Trousers,Men
+220,Premium Chinos Trouser | Carton,66.66333333333333,46.664333333333325,Trousers,Men
+221,Premium Jeans Trouser | Charcoal Black,66.66333333333333,51.33076666666666,Trousers,Men
+222,Premium Jeans Trouser | Grain Black,81.66666666666667,46.55,Trousers,Men
+223,Men's smart Shorts | Mint,43.33,28.1645,Trousers,Men
